@@ -46,6 +46,7 @@ body{
 .top-banner{
     background-image: url("top-banner.png");
     background-repeat: no-repeat;
+    margin-bottom: 350px;
 }
 section{
     height: 500px;
