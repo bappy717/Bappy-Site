@@ -6,7 +6,7 @@
     text-align: right;
     margin-bottom: 30px;
     margin-right: 100px;
-
+    float: left;
 }
 .items {
     margin-right: 5%;
